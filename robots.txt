@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://s-aladin.github.io/kudapoehat-ufa/sitemap.xml
